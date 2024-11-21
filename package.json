@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "path": "^0.12.7"
+  },
+  "name": "backend-practise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "kanvit": "echo \"this is kanvit here \" ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "parshant",
+  "license": "ISC",
+  "description": ""
+}
